@@ -1,4 +1,4 @@
-###日期时间脚本库方法列表
+### 日期时间脚本库方法列表
  
  - Date.prototype.isLeapYear - 判断闰年
  - Date.prototype.Format - 日期格式化
